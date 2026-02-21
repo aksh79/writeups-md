@@ -1,1 +1,1 @@
-my write-ups for security ctf challenges and other labs.
+my write-ups for security ctf challenges and other labs, and content for writeups hosted at [aksh79.github.io/writeups](aksh79.github.io/writeups)
